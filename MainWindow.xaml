@@ -1,0 +1,18 @@
+﻿<Window x:Class="AngryBirdsPro.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Angry Birds Simplified" Height="600" Width="1200">
+    <Canvas Name="gameCanvas">
+        <Canvas.Background>
+            <ImageBrush ImageSource="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\back.jpg"/>
+        </Canvas.Background>
+        <Image Name="pig" Width="79" Height="70" Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\pig.png" Stretch ="Fill" Canvas.Left="600" Canvas.Top="320" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+        <Image Name="slingshot" Width ="60" Height="80"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\slingshot.png" Stretch ="Fill" Canvas.Left="83" Canvas.Top="326"/>
+        <Image  Width ="132" Height="116"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\house.png" Stretch ="Fill" Canvas.Left="20" Canvas.Top="391"/>
+        <Image x:Name="bird" Width="70" Height="60" Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\bird1.png" Stretch ="Fill" Canvas.Left="100" Canvas.Top="300" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Image  Name ="barn" Width ="132" Height="116"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\barn.png" Stretch ="Fill" Canvas.Left="574" Canvas.Top="390"/>
+        <Image  Name="grass1" Width ="443" Height="59"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\grass.png" Stretch ="Fill" Canvas.Left="157" Canvas.Top="449" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Image  x:Name="grass2" Width ="515" Height="59"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\grass.png" Stretch ="Fill" Canvas.Left="685" Canvas.Top="447" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+        <Image  Name="sun" Width ="124" Height="119"  Source ="C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\res\sun.png" Stretch ="Fill" Canvas.Left="326" Canvas.Top="300" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+    </Canvas>
+</Window>

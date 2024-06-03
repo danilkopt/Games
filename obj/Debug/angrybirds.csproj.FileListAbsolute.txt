@@ -1,0 +1,14 @@
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\bin\Debug\angrybirds.exe.config
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\bin\Debug\angrybirds.exe
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\bin\Debug\angrybirds.pdb
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.csproj.AssemblyReference.cache
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\MainWindow.baml
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\MainWindow.g.cs
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\App.g.cs
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds_MarkupCompile.cache
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.g.resources
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.Properties.Resources.resources
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.csproj.GenerateResource.cache
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.csproj.CoreCompileInputs.cache
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.exe
+C:\Users\DanilKopt\Desktop\Прога\Практика и заметки\angrybirds\obj\Debug\angrybirds.pdb
